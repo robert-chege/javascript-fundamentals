@@ -32,6 +32,3 @@ This repository contains all the exercises and notes from a comprehensive JavaSc
 ### **Section 7: JavaScript Functions**
 - Function Declarations vs Expressions, Hoisting
 - Advanced Topics: Rest Operator, Getters/Setters, Try/Catch, and Scope
-
-## **Repository Structure**
-The repository is organized by sections corresponding to the course topics. Each section contains relevant code examples and exercises.
